@@ -4,4 +4,4 @@
 - 🌱 Iniciando na programação 
 - 😄 Pronouns: Ela/dela
 
-<img width=100% src="https://cqpsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://cqpsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
