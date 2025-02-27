@@ -1,13 +1,11 @@
-# Olá, Eu sou [Seu Nome] 👋
-
-> Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de aprender coisas novas e compartilhar conhecimento com a comunidade.
+# Olá, Eu sou Thamiris 👋
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente aprendendo **[Tecnologia Atual]**
+- 🌱 Atualmente aprendendo **JAVA**
 - 👯 Buscando colaborar em projetos de **[Área de Interesse]**
 - 💬 Pergunte-me sobre **[Assuntos que você domina]**
-- 📫 Como me encontrar: **[seu-email@dominio.com]**
+- 📫 Como me encontrar: **thamirisfernandesdasilva444@gmail.com**
 - 😄 Pronomes: **[ele/dele]**
 - ⚡ Fun fact: **[algo interessante sobre você]**
 
