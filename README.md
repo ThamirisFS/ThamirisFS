@@ -25,7 +25,6 @@
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ![MySQL](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=mysql)
 - ![AndroidStudio](https://img.shields.io/badge/-Docker-333333?style=flat&logo=androidstudio)
-- ![VScode](https://img.shields.io/badge/-Docker-333333?style=flat&logo=visualstudiocode)
 
 ---
 
