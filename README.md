@@ -26,8 +26,6 @@
 - ![MySQL](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=mysql)
 - ![AndroidStudio](https://img.shields.io/badge/-Docker-333333?style=flat&logo=androidstudio)
 - ![VScode](https://img.shields.io/badge/-Docker-333333?style=flat&logo=visualstudiocode)
-- ![Photoshop](https://img.shields.io/badge/-Docker-333333?style=flat&logo=photoshop)
-- 
 
 ---
 
